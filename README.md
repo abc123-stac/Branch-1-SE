@@ -1,2 +1,2 @@
-# Branch-1-SE
-Hello! This is branch 1.
+# Branch-2-SE
+Hello! Lets learn Github.
